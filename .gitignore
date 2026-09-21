@@ -1,0 +1,14 @@
+# Ignore both db.php files
+**/db.php
+
+# Other private files
+.env
+config.php
+
+# Logs and database backups
+*.log
+*.sql
+
+# Operating system files
+.DS_Store
+Thumbs.db
